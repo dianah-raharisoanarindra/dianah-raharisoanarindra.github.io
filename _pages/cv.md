@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Archaeology, University of Bourgogne Europe, France, 2025
+* M.Sc. in Paleontology, University of Antananarivo, Madagascar, 2020
+* B.Sc. in Geosciences, University of Antananarivo, Madagascar, 2017
 
 Work experience
 ======
