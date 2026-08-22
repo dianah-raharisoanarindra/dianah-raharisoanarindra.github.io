@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MSc. in Archaeology, University of Burgundy Europe, France, 2025
+* MRes. in Archaeology, University of Burgundy Europe, France, 2025
 
     As part of this Master's degree, I had the privilege of participating in two Erasmus+ programs and one summer school:
 
