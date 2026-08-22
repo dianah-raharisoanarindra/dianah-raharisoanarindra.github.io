@@ -9,3 +9,5 @@ More at [https://www.uhk.cz/en/philosophical-faculty/exchanges/international-pro
 <img src='https://web.archive.org/web/20260822221707/https://www.uhk.cz/file/edee/filozoficka-fakulta/ff-international-students/international-projects/trarcher/events-activities/workshops/workshop-1-croatia-rab-2.png'>
 
 <img src='https://web.archive.org/web/20260822222237/https://www.uhk.cz/file/edee/filozoficka-fakulta/ff-international-students/international-projects/trarcher/events-activities/workshops/workshop-1-croatia-rab-1.png'>
+
+<img src='https://web.archive.org/web/20260822225531/https://www.uhk.cz/file/edee/filozoficka-fakulta/ff-international-students/international-projects/trarcher/events-activities/workshops/workshop-1-croatia-rab-3.png'>
