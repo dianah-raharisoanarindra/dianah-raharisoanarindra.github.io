@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* MRes. in Archaeology, University of Burgundy Europe, France, 2025
+* **MRes. in Archaeology**, University of Burgundy Europe, France, 2025<br>
+My Master's thesis focused on *3D Modeling of the Abbey of Saint-Martin de Savigny, Lyon*, under the supervision of [Dr. Olivia Puel](https://cv.hal.science/olivia-puel) (University of Burgundy Europe), with technical guidance [Fabrice Pothier](https://lyonen1700.fr/) during my first year (M1).
 
-    As part of this Master's degree, I had the privilege of participating in two Erasmus+ programs and one summer school:
+    As part of this Master's degree, I also had the privilege of participating in two Erasmus+ programs and one summer school:
 
     - [Summer School "Digital Archaeology"](https://sciences-archeologiques.u-bordeaux.fr/gpr/productions/ecole-detesummer-school/edition-2024),  University of Bordeaux, France | 01/07 - 06/07/2024<br>
     I received training in multi-scale imaging from site to object, as well as the quantification of shape, form, and surface texture for archaeological and anatomical specimens.
@@ -24,9 +25,11 @@ I trained in advanced building archaeology methods by generating ground plans an
     - [1st Workshop of ERASMUS+ KA220 TRARCHER Project](https://www.uhk.cz/en/philosophical-faculty/exchanges/international-projects/trarcher-cooperative-partnership/events-activities), Rab, Croatia | 18/10 - 30/10/2023<br>
     I attended conferences and workshops focused on the digitization of cultural heritage, such as documenting and recontructing historical landscapes with GIS tools.
     
-* MSc. in Paleontology, University of Antananarivo, Madagascar, 2020
+* **MSc. in Paleontology**, University of Antananarivo, Madagascar, 2020<br>
+My Master's thesis was entitled *Preliminary Study on Hippopotamus Teeth from Tsaramody Sambaina and Ampariaka Amparaky, Central Highlands of Madagascar*, under the supervision of Prof. [Lovasoa Ranivoharimanana](https://www.researchgate.net/profile/Lovasoa-Ranivoharimanana) (University of Antananarivo) and Dr. [Karen Samonds]((https://www.sadabe.org/Samonds/Index.html)) (Northern Illinois University).
 
-* BSc. in Geosciences, University of Antananarivo, Madagascar, 2017
+* **BSc. in Geosciences**, University of Antananarivo, Madagascar, 2017<br>
+My Bachelor's thesis focused on *Fossil site inventory process: application to the case of Madagascar* under the supervision of Prof. [Hasina Nirina Randrianaly](https://www.researchgate.net/profile/Hasina-Randrianaly) (University of Antananarivo).
 
 Work experience
 ======
@@ -92,6 +95,9 @@ Conferences Attended
 * [**2021 AIC and SPNHC Joint Virtual Annual Meeting**](https://learning.culturalheritage.org/aic2021), The American Institute for Conservation (AIC) and the Society for the Preservation of Natural History Collections (SPNHC), Online | May 10 - June 24, 2021<br>
 Virtual conference bringing together conservation and collections care professionals to address social inequalities within the cultural sector through panel discussions, workshops, and presentations on equitable conservation tools and practices.<br>
 I received the [Fitzgerald Conference Grant](https://spnhc.org/what-spnhc-does/awards-and-grants/) to attend the conference. 
+
+* **[Ikala STEM's Inter-Annual Workshop (IAW 19)](https://www.ikalastem.org/post/iaw19-applications-are-open)**, "Take charge of your career", organized by [Ikala STEM](https://www.ikalastem.org/home) and NGO [Lemur Love](https://www.lemurlove.org/), Antananarivo, Madagascar \| June 17-19, 2019<br>
+Workshop on career development and Lemur science skills and lemur conservation
 
 Miscellaneous
 ======
